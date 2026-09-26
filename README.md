@@ -119,7 +119,6 @@ Four upright squares — Red · Blue · Purple · Grey — on a clean white fiel
 **Mohammed Al-Abyah** — Security Engineer · Riyadh
 
 - Portfolio: [q5.qa](https://q5.qa/)
-- CV: [q5.qa/cycv.pdf](https://q5.qa/cycv.pdf)
 - GitHub: [@6lj](https://github.com/6lj)
 - Email: [dev@q5.qa](mailto:dev@q5.qa)
 
